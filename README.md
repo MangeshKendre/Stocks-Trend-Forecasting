@@ -44,18 +44,5 @@ This project is an ongoing endeavor, exploring ways to enhance the model's accur
 
 ## 🚀 How to Run:
 
-1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/stocks-trend-forecasting.git
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-Copy code
-streamlit run app.py
-Access the app in your browser at http://localhost:8501.
+>> Access the app in your browser at http://localhost:8501.
